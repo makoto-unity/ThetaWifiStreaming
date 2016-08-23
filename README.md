@@ -7,7 +7,7 @@ Theta S Wifi Streaming Demo with Unity
 
 ## 使い方
 1. Theta S を起動させて、Wifiモードをオンにする。
-2. PC/Mac と Theta をWifiで繋げます。パスワードはThetaの底に書いてある、「XS」に後に続く数字８桁（XSは除く）。
+2. PC/Mac と Theta をWifiで繋げる。パスワードはThetaの底に書いてある、「XS」に後に続く数字８桁（XSは除く）。
 3. このプロジェクトをUnityで開いてスタートさせると、Sphere100のマテリアルにストリーミング画像が出る。
 
 ## 謝辞
